@@ -1,39 +1,64 @@
-# Zoom Clone Project
+# 📹 Zoom Clone – Full Stack Video Conferencing App
 
-This project follows the [JS Mastery tutorial on YouTube](https://www.youtube.com/watch?v=R8CIO1DZ2b8&ab_channel=JavaScriptMastery). It's a step-by-step guide to building a Zoom clone with Next.js and TypeScript.
+A fully functional Zoom-like video conferencing platform built using **Next.js 13**, **TypeScript**, **Tailwind CSS**, and **Clerk** for authentication.  
+This app allows users to create meetings, authenticate securely, and collaborate in real time.
 
-## Introduction
+---
 
-This project replicates Zoom, built with Next.js and TypeScript. Users can log in, create meetings, and use features like recording, screen sharing, and participant management.
+## 🚀 Features
 
-## Tech Stack
+- 🔐 User authentication via Clerk
+- 🎥 Create & join video meeting rooms
+- 🖥️ Screen sharing & real-time UI
+- 📱 Responsive design (mobile/tablet/desktop)
+- 🧩 Built using App Router (Next.js 13+)
 
-- Next.js
-- TypeScript
-- Clerk
-- getstream
-- Tailwind CSS
+---
 
-## Features
+## 🛠️ Tech Stack
 
-- **Authentication:** Secure login with Clerk.
-- **New Meeting:** Start meetings with configurable settings.
-- **Meeting Controls:** Manage recording, screen sharing, and participants.
-- **Exit Meeting:** Leave or end meetings.
-- **Schedule Meetings:** Schedule future meetings.
-- **Past Meetings:** Access and view recordings of past meetings.
-- **Personal Room:** Unique meeting link for instant meetings.
-- **Join Meetings:** Join via link.
-- **Responsive Design:** Optimized for all devices.
+| Frontend   | Auth      | Styling       | Language     |
+|------------|-----------|---------------|--------------|
+| Next.js 13 | Clerk     | Tailwind CSS  | TypeScript   |
 
-## Quick Start
+---
 
-### Prerequisites
+## 📸 Screenshots
 
-- Git
-- Node.js
-- npm
+> Place your screenshots in `public/screenshots/` and reference them below.
 
-### Original Repository
+### 🔐 Login Page  
+![Sign Up](./public/screenshots/yoom%20sign%20up.png)
 
-The original repository for this tutorial can be found [here](https://github.com/adrianhajdin/zoom-clone/tree/main)
+![Username](./public/screenshots/yoom%20username.png)
+
+### 📋 Dashboard  
+![Dashboard](./public/screenshots/yoom%20dashboard.png)
+
+### 🎥 Meeting Room  
+![Meeting](./public/screenshots/yoom%20meeting.png)
+
+---
+
+## 📦 Getting Started
+
+### 1️⃣ Clone This Repository
+
+```bash
+git clone https://github.com/aksh10207/yoom-the-zoom-clone
+cd yoom-the-zoom-clone
+
+
+License
+-------
+
+This project is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+
+Contact
+-------
+
+If you have any questions or suggestions, feel free to reach out to me:
+
+*   **Name:** Akshay Srivastava
+*   **GitHub:** [aksh10207](https://github.com/aksh10207)
+*   **Email:** [akshaysri0844@gmail.com](mailto:akshaysri0844@gmail.com)
