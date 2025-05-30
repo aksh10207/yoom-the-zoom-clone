@@ -25,8 +25,6 @@ This app allows users to create meetings, authenticate securely, and collaborate
 
 ## 📸 Screenshots
 
-> Place your screenshots in `public/screenshots/` and reference them below.
-
 ### 🔐 Login Page  
 ![Sign Up](./public/screenshots/yoom%20sign%20up.png)
 
